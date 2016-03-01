@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Logintest</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">558689740966079</string>
+    <string name="twitter_app_key">e36QktclJD9j4y3bLEOEItOrm</string>
+    <string name="twitter_app_secret">gJKNUjAJvCDT7SGtSPwPKDyoJQhwqwy8zkIjrRUwpwF080TXOM</string>
+    <string name="title_activity_suc">Suc</string>
+</resources>

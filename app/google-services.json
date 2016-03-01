@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "logintest-d446a",
+    "project_number": "306347562772",
+    "name": "Logintest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306347562772:android:1d9895f3095aa3b8",
+        "client_id": "android:com.example.hulk.logintest",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.hulk.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306347562772-k764dj9kv1mm60kda75n6ouhd8vfski6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hulk.logintest",
+            "certificate_hash": "CBE164738F4F74BF4A3D4300013E672D4383A0A9"
+          }
+        },
+        {
+          "client_id": "306347562772-lsvcehqfqq4m2mjib36d0khnijb1a8ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
